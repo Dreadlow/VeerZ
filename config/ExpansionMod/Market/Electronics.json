@@ -1,0 +1,146 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_ELECTRONICS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "personalradio",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "megaphone",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "electronicrepairkit",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cablereel",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "batterycharger",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "baseradio",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "carbattery"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "rangefinder",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 40000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "nvgoggles",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 450000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "alarmclock_blue",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "alarmclock_green",
+                "alarmclock_red"
+            ]
+        },
+        {
+            "ClassName": "kitchentimer",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "dzn_tool_watch",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dzn_tool_watch2"
+            ]
+        }
+    ]
+}

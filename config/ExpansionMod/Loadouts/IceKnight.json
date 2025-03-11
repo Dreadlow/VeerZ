@@ -1,0 +1,215 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "Chainmail",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "Chainmail_Leggings",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                {
+                    "ClassName": "MedievalBoots",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Vest",
+            "Items": [
+                {
+                    "ClassName": "Chestplate",
+                    "Include": "",
+                    "Chance": 0.10000000149011612,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "Items": [
+                {
+                    "ClassName": "Chainmail_Coif",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "SkiGloves_90s",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Hips",
+            "Items": [
+                {
+                    "ClassName": "CivilianBelt",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Melee",
+            "Items": [
+                {
+                    "ClassName": "Sword",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}

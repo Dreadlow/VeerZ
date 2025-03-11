@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 15 Lantian Aliens",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": 150.0,
+    "MinDistance": -1.0,
+    "Amount": 15,
+    "ClassNames": [
+		"ZmbM_BloodSucker_normal",
+		"ZmbM_BloodSucker_medium",
+		"ZmbM_BloodSucker_hard",
+		"ZmbM_BloodSucker_superhard",
+		"ZmbM_BloodSucker_normalR",
+		"ZmbM_BloodSucker_mediumR"
+		"ZmbM_BloodSucker_hardR"
+		"ZmbM_BloodSucker_superhardR"
+	],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

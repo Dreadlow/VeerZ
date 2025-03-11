@@ -2,10 +2,10 @@
 <events>
     <!-- Vanilla Tweaks -->
     <event name="VehicleCivilianCars">
-        <waves>0</waves>
-        <nominal>4</nominal>
+        <waves>8</waves>
+        <nominal>8</nominal>
         <min>4</min>
-        <max>4</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -35,10 +35,10 @@
         </children>
     </event>
     <event name="VehicleTrucks">
-        <waves>0</waves>
-        <nominal>2</nominal>
+        <waves>8</waves>
+        <nominal>8</nominal>
         <min>2</min>
-        <max>2</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -61,9 +61,9 @@
     </event>
     <event name="VehicleHelicopters">
         <waves>0</waves>
-        <nominal>2</nominal>
+        <nominal>8</nominal>
         <min>2</min>
-        <max>2</max>
+        <max>8</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>

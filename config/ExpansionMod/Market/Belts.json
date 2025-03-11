@@ -1,0 +1,102 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BELTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "FOG_BISON_Belt_Black",
+			"MaxPriceThreshold": 100000,
+			"MinPriceThreshold": 90000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"FOG_BISON_Belt_CB",
+				"FOG_BISON_Belt_RG",
+				"FOG_BISON_Belt_MC",
+				"FOG_BISON_Belt_MCB"
+			]
+		},
+		{
+			"ClassName": "FOG_Belt_RTGFB_Black",
+			"MaxPriceThreshold": 100000,
+			"MinPriceThreshold": 90000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"FOG_Belt_RTGFB_CB",
+				"FOG_Belt_RTGFB_MC",
+				"FOG_Belt_RTGFB_RG",
+				"FOG_Belt_RTGFB_AOR1",
+				"FOG_Belt_RTGFB_AOR2",
+				"FOG_Belt_RTGFB_ALP"
+			]
+		},
+		{
+			"ClassName": "FOG_MRB_Belt_Black",
+			"MaxPriceThreshold": 100000,
+			"MinPriceThreshold": 90000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"FOG_MRB_Belt_CB",
+				"FOG_MRB_Belt_MC",
+				"FOG_MRB_Belt_MCB",
+				"FOG_MRB_Belt_RG",
+				"FOG_MRB_Belt_AOR1",
+				"FOG_MRB_Belt_AOR2",
+				"FOG_MRB_Belt_ATACSAU",
+				"FOG_MRB_Belt_6CD",
+				"FOG_MRB_Belt_MCT"
+			]
+		},
+        {
+            "ClassName": "civilianbelt",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarybelt",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 60000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hippack_black",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 50000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "hippack_green",
+                "hippack_medical",
+                "hippack_party"
+            ]
+        }
+    ]
+}
